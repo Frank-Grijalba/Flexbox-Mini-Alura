@@ -91,22 +91,22 @@ body {
 }
 
 
-.rodapePrincipal {
+.rodapiePrincipal {
 	background-color: #324C64;
 	padding-top: 20px;
 }
 
-.rodapePrincipal .subtitulo {
+.rodapiePrincipal .subtitulo {
 	color: #FFF;
 }
 
-.rodapePrincipal-navMap-link {
+.rodapiePrincipal-navMap-link {
 	text-decoration: none;
 	color: #FFF;
 	margin-top: 10px;
 }
 
-.rodapePrincipal-navMap-link {
+.rodapiePrincipal-navMap-link {
 	font-size: .9em;
 }
 
@@ -119,27 +119,27 @@ body {
 	padding-bottom: .2em;
 }
 
-.navmap-list-title + .rodapePrincipal-navMap-link {
+.navmap-list-title + .rodapiePrincipal-navMap-link {
 	margin-top: 0;
 }
 
-.navmap-list-title-bancoDeDados { color: #EC6E5A; border-left: 4px solid #EC6E5A; }
+.navmap-list-title-bancoDedatos { color: #EC6E5A; border-left: 4px solid #EC6E5A; }
 .navmap-list-title-framework { color: #AD85BF; border-left: 4px solid #AD85BF; }
 .navmap-list-title-frontend { color: #5EC6F3; border-left: 4px solid #5EC6F3; }
 .navmap-list-title-backend { color: #25D285; border-left: 4px solid #25D285; }
 
-.rodapePrincipal-patrocinadores {
+.rodapiePrincipal-patrocinadores {
 	margin-top: 30px;
 	background: #F2F5F7;
 	padding: 20px 0;
 }
 
-.rodapePrincipal-contatoForm {
+.rodapiePrincipal-contactoForm {
 	margin-top: 20px;
 	text-align: center;
 }
 
-.rodapePrincipal-contatoForm label[for=email-contato] {
+.rodapiePrincipal-contactoForm label[for=email-contacto] {
 	font-weight: bold;
 	font-size: 14px;
 	color: #000;
@@ -147,13 +147,13 @@ body {
 	display: block;
 }
 
-.rodapePrincipal-contatoForm-emailInput {
+.rodapiePrincipal-contactoForm-emailInput {
 	border-top-left-radius: 5px;
 	border-bottom-left-radius: 5px;
 	padding: 10px;
 }
 
-.rodapePrincipal-contatoForm-submit {
+.rodapiePrincipal-contactoForm-submit {
 	border-top-right-radius: 5px;
 	border-bottom-right-radius: 5px;
 	background-color: #4DBA7A;
@@ -162,8 +162,8 @@ body {
 	
 }
 
-.rodapePrincipal-contatoForm-submit,
-.rodapePrincipal-contatoForm-emailInput {
+.rodapiePrincipal-contactoForm-submit,
+.rodapiePrincipal-contactoForm-emailInput {
 	outline: 0;
 	border: 1px solid #4DBA7A;
 	box-sizing: border-box;
@@ -205,7 +205,7 @@ body {
 	outline: none;
 }
 
-.rodapePrincipal-contatoForm-legend {
+.rodapiePrincipal-contactoForm-legend {
 	margin-bottom: 10px;
 }
 
@@ -242,7 +242,7 @@ body {
 		margin: 0 0 0 10px;
 	}
 
-	.rodapePrincipal-contatoForm {
+	.rodapiePrincipal-contactoForm {
 		margin-top: 0;
 		text-align: left;
 	}
